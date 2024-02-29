@@ -6,4 +6,4 @@ Mentee assignment from IBM Advance AI @infinite learning Course The Art of Promp
 Mentee Info
 - Name : Muhammad Ridho Syahputra Junaidi
 - Program : IBM Advance AI
-- Tech Stack: -PYTHON
+- Tech Stack: -PYTHON -Linux
